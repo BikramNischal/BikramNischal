@@ -19,4 +19,4 @@ I'm a full-stack developer passionate about building performant, scalable, and w
 </p>
 
 ---
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikramnischal&show_icons=true&locale=en&layout=compact" alt="bikramnischal" /></p>
