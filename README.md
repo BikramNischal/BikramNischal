@@ -7,7 +7,7 @@ I'm a full-stack developer passionate about building performant, scalable, and w
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,python,dotnet,bash,nginx,postgres,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,python,bash,nginx,postgres,git,githubactions" />
 </p>
 
 ---
