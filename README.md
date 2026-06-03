@@ -15,12 +15,12 @@ I'm a full-stack developer passionate about building performant, scalable, and w
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikramnischal&theme=dark&hide_border=false" alt="Bikram's Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bikramnischal&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikramnischal&layout=compact&theme=dark" alt="Bikram's Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bikramnischal&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 ---
